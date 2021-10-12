@@ -10,6 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>pet-clinic-web</artifactId>
+  <version>0.0.1</version>
 
     <dependencies>
         <dependency>
@@ -47,7 +48,7 @@
         <dependency>
             <groupId>com.keisse.florian</groupId>
             <artifactId>pet-clinic-data</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>0.0.1</version>
         </dependency>
         <dependency>
             <groupId>javax.validation</groupId>
@@ -66,4 +67,8 @@
         </dependency>
     </dependencies>
 
+
+  <scm>
+    <tag>sfg-pet-clinic-0.0.1</tag>
+  </scm>
 </project>
